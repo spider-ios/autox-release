@@ -13,7 +13,6 @@
 <img  src="/assets/qrcode.jpg?0701" width="400" />
 </p>
 [点击下载](https://github.com/spider-ios/autox-release/releases/tag/v2.0.0)
-# 2.0 版本需要可加作者微信：dlz1123
 
 [点击观看视频](https://www.bilibili.com/video/BV1q9MMzoEpT/?buvid=Y248D0254BD57B4E4B1EBF41FD89855D7692)
 
